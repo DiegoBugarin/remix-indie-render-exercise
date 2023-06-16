@@ -37,13 +37,13 @@
     "@remix-run/react": "latest",
     "@remix-run/serve": "latest",
     "@remix-run/server-runtime": "latest",
-    "bcryptjs": "^2.4.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "tiny-invariant": "^1.2.0"
+    "bcryptjs": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tiny-invariant": "latest"
   },
   "devDependencies": {
-    "@faker-js/faker": "^6.1.1",
+    "@faker-js/faker": "latest",
     "@remix-run/dev": "latest",
     "@remix-run/eslint-config": "latest",
     "@testing-library/cypress": "latest",
@@ -56,8 +56,8 @@
     "@types/react-dom": "latest",
     "@vitejs/plugin-react": "latest",
     "autoprefixer": "latest",
-    "binode": "^1.0.5",
-    "c8": "^7.11.0",
+    "binode": "latest",
+    "c8": "latest",
     "cross-env": "latest",
     "cypress": "latest",
     "eslint": "latest",
@@ -65,21 +65,21 @@
     "happy-dom": "latest",
     "msw": "latest",
     "npm-run-all": "latest",
-    "postcss": "^8.4.12",
-    "prettier": "2.6.1",
-    "prettier-plugin-tailwindcss": "^0.1.8",
+    "postcss": "latest",
+    "prettier": "latest",
+    "prettier-plugin-tailwindcss": "latest",
     "prisma": "latest",
-    "start-server-and-test": "^1.14.0",
-    "tailwindcss": "^3.0.23",
-    "ts-node": "^10.7.0",
+    "start-server-and-test": "latest",
+    "tailwindcss": "latest",
+    "ts-node": "latest",
     "tsconfig-paths": "latest",
-    "typescript": "^4.6.3",
+    "typescript": "latest",
     "vite": "latest",
-    "vite-tsconfig-paths": "^3.4.1",
-    "vitest": "^0.8.2"
+    "vite-tsconfig-paths": "latest",
+    "vitest": "latest"
   },
   "engines": {
-    "node": "16.14.2"
+    "node": "latest"
   },
   "prisma": {
     "seed": "ts-node --require tsconfig-paths/register prisma/seed.ts"
