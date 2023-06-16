@@ -172,6 +172,7 @@ export default function Join() {
           </div>
         </Form>
       </div>
+      <a>Hello</a>
     </div>
   );
 }
